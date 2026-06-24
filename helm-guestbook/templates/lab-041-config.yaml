@@ -4,5 +4,5 @@ kind: ConfigMap
 metadata:
   name: lab-041
 data:
-  env: dev
+  env: "dev"
 ...
